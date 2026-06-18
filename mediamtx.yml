@@ -1,0 +1,7 @@
+hlsAddress: :8888
+hlsAllow: yes
+
+paths:
+  kanal:
+    source: http://yaya.nexon.pro:80/live/g52eyrv8ry347t/xzfqnme34ppwrq/32964.ts
+    sourceOnDemand: no
