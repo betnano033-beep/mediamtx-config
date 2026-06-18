@@ -1,5 +1,7 @@
 hlsAddress: :8888
 hlsAllow: yes
+hlsSegmentCount: 3
+hlsSegmentDuration: 1s
 
 paths:
   kanal:
